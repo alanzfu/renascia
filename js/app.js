@@ -23,7 +23,10 @@ var main = function (){
               <a href="index.html">HOME</a>
             </li>
             <li>
-              <a href="/team.html">TEAM</a>
+              <a href="team.html">TEAM</a>
+            </li>
+            <li>
+              <a href="about.html">ABOUT</a>
             </li>
             <li>
               <a href="specialization.html">SERVICES</a>

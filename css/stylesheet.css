@@ -166,6 +166,10 @@ li a:hover{
   margin-bottom: 10px;
 }
 
+.service-text{
+  font-size: 1.2em;
+  text-align: left;
+}
 .person a{
   color:rgba(0, 22, 88,0.8);
 }
