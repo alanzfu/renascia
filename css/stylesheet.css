@@ -115,6 +115,14 @@ li a:hover{
   font-weight: lighter;
 }
 
+.footer-header h1{
+  font-size: 1.5em;
+}
+
+.footer-header h2{
+  font-size: 1.0em;
+}
+
 .footer{
   padding: 10px 0px 0px 0px;
   font-size: 9px;
@@ -148,11 +156,14 @@ li a:hover{
   font-size:1.6em;
 }
 .person{
+  text-align: center;
+  color: rgba(0,0,0,0.8);
+}
+
+.team-style{
   display: flex;
   justify-content: space-around;
   margin-bottom: 10px;
-  text-align: center;
-  color: rgba(0,0,0,0.8);
 }
 
 .person a{
