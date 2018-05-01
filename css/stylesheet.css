@@ -189,6 +189,15 @@ li a:hover{
   width:90%;
 }
 
+.deals-img{
+  width:90%;
+  height: auto
+}
+
+.deals-header{
+  padding-bottom: 0.5em;
+}
+
 .left{
   text-align:left;
 }

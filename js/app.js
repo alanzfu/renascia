@@ -1,6 +1,6 @@
 'use strict'
 
-var main = function (){
+var main = function () {
   var footer = `<div class="row section-header footer-header">
     <div class="col-sm-12 section-content">
       <h1>Renascia</h1>
@@ -24,6 +24,9 @@ var main = function (){
             </li>
             <li>
               <a href="team.html">TEAM</a>
+            </li>
+            <li>
+              <a href="deals.html">DEALS</a>
             </li>
             <li>
               <a href="about.html">ABOUT</a>
